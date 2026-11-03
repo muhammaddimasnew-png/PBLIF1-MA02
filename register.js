@@ -41,6 +41,6 @@ document.getElementById("registerForm")
     alert("Registrasi berhasil!");
 
     window.location.href =
-    "login.html";
+    "index.html";
 
 });
